@@ -1,7 +1,9 @@
 venv/
+Kvasir-SEG/
+dataset1.zip
 __pycache__/
 *.pyc
-.streamlit/
-outputs/evaluation/*.csv
-outputs/evaluation/*.json
-dataset1.zip
+demo_image.jpg
+classification_data/
+outputs/*.jpg
+outputs/*.png

@@ -2,7 +2,7 @@ import os
 import cv2
 
 from agents.triage_agent import TriageAgent
-from agents.segmentation_agent import SegmentationAgent
+from segmentation_agent_trained import SegmentationAgent
 from agents.evaluation_agent import EvaluationAgent
 from agents.reporting_agent import ReportingAgent
 
