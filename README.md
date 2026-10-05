@@ -1,8 +1,8 @@
-\# Diagnostic Triage Agent Team
+Diagnostic Triage Agent Team
 
 
 
-\## AI-Based Medical Image Analysis Prototype
+•AI-Based Medical Image Analysis Prototype
 
 
 
